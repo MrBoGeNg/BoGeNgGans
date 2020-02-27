@@ -44,20 +44,20 @@ lagi=1
 while [ $lagi -lt 6 ];
 do
 echo ""
-echo -e $b "1.  Nmap${enda}";
+echo -e "1.  Nmap${endc}";
 echo -e "============================" | lolcat
-echo -e $r "2.  Admin-finder${endc}";
+echo -e "2.  Admin-finder${endc}";
 echo -e "============================" | lolcat
-echo -e $g "3.  RED_HAWK${endc}";
+echo -e "3.  RED_HAWK${endc}";
 echo -e "============================" | lolcat
-echo -e $c "4   Lazymux${endc}";
+echo -e "4.  Lazymux${endc}";
 echo -e "============================" | lolcat
-echo -e $r"5.  Tools-X${endc}";
+echo -e "5.  Tools-X${endc}";
 echo -e "============================" | lolcat
-echo -e $r "6. Exit${endc}";
+echo -e "6.  Exit${endc}";
 echo ""
-echo -e "╭─0day" |lolcat
-read -p "╰─#" pil;
+echo -e "  ╭─0day" |lolcat
+read -p "  ╰─#" pil;
 
 # Nmap
 
