@@ -17,7 +17,7 @@ blue='\e[1;34m'
 cyan='\e[1;36m'
 red='\e[1;31m'
 
-figlet Tools | lolcat
+figlet Tools BoGeNg | lolcat
 
 echo -e  "_____________________________________________________________"
 echo -e  "Tools    : 0daysecurity98 $white         " |lolcat
